@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    background-color: black;
+    color: white;
+}
+.container {
+    max-width: 1200px;
+    margin: 0;
+    padding: 0 1.5rem;
+}
+a{
+    text-decoration: nome;
+    color: var(--primary-color);
+    transition: color 0.3s ease;
+}
+a:hover{
+    
+}
